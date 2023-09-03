@@ -38,6 +38,11 @@ ul {
     max-width: 1100px;
     margin: 0 auto;
     padding: 0 30px;
+    display: flex;
+}
+
+img {
+    width: 300px;
 }
 
 .navbar {
